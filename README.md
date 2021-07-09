@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferariz
 - 👀 I’m interested in climate, forest fires, nuclear energy, complex systems.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning ML/AI.
 - 💞️ I’m looking to collaborate on scientific projects about any of my interests.
 - 📫 Please feel free to contact me: arizmendi.f@gmail.com
 
