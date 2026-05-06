@@ -1,6 +1,3 @@
-Readme · MD
-Copiar
-
 # Fernando Arizmendi | AI/ML Engineer
 PhD in Physics (Marie Curie fellow | Climate Dynamics & Complex Systems)  
 BSc & MSc in Physics (Instituto Balseiro)
