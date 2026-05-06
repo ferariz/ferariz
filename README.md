@@ -1,15 +1,12 @@
 # Fernando Arizmendi
   
-AI/ML Engineer  
-PhD in Physics (Marie Curie fellow | Climate Dynamics & Complex Systems)  
-BSc & MSc in Physics (Instituto Balseiro)
- 
+AI/ML Engineer   
 ---
  
 ## Current Projects
  
-- **[Skygent](https://github.com/ferariz/skygent)** — Hybrid agentic weather monitoring system. Deterministic threshold logic over ECMWF IFS forecasts, LLM narration, Telegram alerts. LangGraph · FastAPI · 204 unit tests.
-- **AuditAI** — ISO 9001 certification assistant. Multi-stage conversation design, RAG over ISO corpus, document gap analysis. LangGraph · FAISS · 344 unit tests.
+- **[Skygent](https://github.com/ferariz/skygent)** — Hybrid agentic weather monitoring system. Deterministic threshold logic over ECMWF IFS forecasts, LLM narration, Telegram alerts. 
+- **AuditAI** — ISO 9001 certification assistant. Multi-stage conversation design, RAG over ISO corpus, document gap analysis.
 ---
  
 ## Writing
@@ -25,12 +22,6 @@ BSc & MSc in Physics (Instituto Balseiro)
 - 🎓 **Thesis Supervisor** — Universidad de Montevideo (Data Science MSc)
 - 🛒 **Sr Data Science Engineer** — Mercado Libre
 - 💼 **Data Scientist** — TCS Uruguay (Microsoft vendor)
----
- 
-## Stack
- 
-`Python` `LangGraph` `FastAPI` `SQLModel` `PostgreSQL` `FAISS` `Pydantic` `APScheduler` `Telegram Bot API` `Streamlit`
- 
 ---
  
 ## Contact
