@@ -1,6 +1,4 @@
 # Fernando Arizmendi
-  
-AI/ML Engineer   
 ---
  
 ## Current Projects
