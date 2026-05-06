@@ -10,8 +10,7 @@ BSc & MSc in Physics (Instituto Balseiro)
 ## Current Projects
  
 - **[Skygent](https://github.com/ferariz/skygent)** — Hybrid agentic weather monitoring system. Deterministic threshold logic over ECMWF IFS forecasts, LLM narration, Telegram alerts. LangGraph · FastAPI · 204 unit tests.
-- **[AuditAI](https://github.com/ferariz/auditai-v2)** — ISO 9001 certification assistant. Multi-stage conversation design, RAG over ISO corpus, document gap analysis. LangGraph · FAISS · 344 unit tests.
-- **[enso-forecast](https://github.com/ferariz/enso-forecast)** — Backend pipeline for constructing, validating, and benchmarking a monthly ENSO phase prediction dataset. Ingests NOAA CPC indices, engineers physically-informed features.
+- **AuditAI** — ISO 9001 certification assistant. Multi-stage conversation design, RAG over ISO corpus, document gap analysis. LangGraph · FAISS · 344 unit tests.
 ---
  
 ## Writing
