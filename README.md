@@ -12,7 +12,7 @@ Physicist building production AI systems. Montevideo, Uruguay.
  
 ## Writing
  
-- **[Towards Data Science]** — *Why I don't trust LLMs to know when a weather forecast changed* · May 2026
+- **[Towards Data Science]** — [*Why I don't trust LLMs to know when a weather forecast changed*](https://towardsdatascience.com/why-i-dont-trust-llms-to-decide-when-the-weather-changed/) · May 2026
 ---
  
 ## Background
