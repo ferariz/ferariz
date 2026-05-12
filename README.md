@@ -10,7 +10,10 @@ Physicist building production AI systems. Montevideo, Uruguay.
 - **[enso-forecast](https://github.com/ferariz/enso-forecast)** — Backend pipeline for constructing, validating, and benchmarking a monthly ENSO phase prediction dataset. Ingests NOAA CPC indices, engineers physically-informed features.
 ---
  
-## Writing
+## Writing & Research
+
+- **[International Journal of Climatology]** — *Weather regimes in subtropical South America 
+  and their impacts over Uruguay* · Arizmendi, Trinchin & Barreiro · [DOI](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.7816)
  
 - **[Towards Data Science]** — [*Why I don't trust LLMs to know when a weather forecast changed*](https://towardsdatascience.com/why-i-dont-trust-llms-to-decide-when-the-weather-changed/) · May 2026
 ---
